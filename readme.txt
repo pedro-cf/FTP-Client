@@ -1,9 +1,9 @@
-Programa para fazer download de um único ficheiro via ftp usando sockets.
+Download a single file using ftp sockets.
 
-Adopta o URL syntax:
+URL syntax:
 ftp://[<user>:<password>@]<host>/<url-path>
 
-Exemplos:
+Examples:
 
 ./ftp ftp://ftp.up.pt/pub/mozilla/firefox/releases/19.0.2/linux-x86_64/ach/firefox-19.0.2.tar.bz2
 
