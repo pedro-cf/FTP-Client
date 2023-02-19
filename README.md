@@ -8,27 +8,27 @@ To use FTP Client, you need to compile the source code provided in this reposito
 
 1. Clone this repository to your local machine:
 
-   ***
+   ```
    git clone https://github.com/pedro-cf/FTP-Client.git
-   ***
+   ```
 
 2. Change to the cloned directory:
 
-   ***
+   ```
    cd FTP-Client
-   ***
+   ```
 
 3. Compile the source code:
 
-   ***
+   ```
    gcc -o ftp_client ftp_client.c
-   ***
+   ```
 
 4. Download a single file from an FTP server:
 
-   ***
+   ```
    ./ftp_client ftp://[<user>:<password>@]<host>/<url-path>
-   ***
+   ```
 
    This command downloads a single file from the specified FTP server. Replace `<user>` and `<password>` with your username and password (if required), `<host>` with the FTP server address, and `<url-path>` with the path to the file on the server.
 
@@ -41,7 +41,7 @@ FTP Client requires the following:
 
 ## License
 
-FTP Client is released under the MIT License. See the ***LICENSE*** file for details.
+FTP Client is released under the MIT License. See the ```LICENSE``` file for details.
 
 ## Support
 
