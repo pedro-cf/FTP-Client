@@ -41,7 +41,7 @@ FTP Client requires the following:
 
 ## License
 
-FTP Client is released under the MIT License. See the ```LICENSE``` file for details.
+FTP Client is released under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Support
 
